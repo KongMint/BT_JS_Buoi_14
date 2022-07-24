@@ -97,3 +97,7 @@ document.getElementById("btnDuDoan").onclick = function(){
 
     document.getElementById("duDoan").innerHTML = result;
 }
+
+//Bài tập 5:
+
+
